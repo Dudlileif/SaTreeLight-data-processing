@@ -5,3 +5,7 @@ New version based around the sentinelsat python package. This is due to free acc
 ## Setup
 
 Be sure to make a [credentials](credentials_example) file from the example with your copernicus username and password.
+
+## Future
+
+Might swap to the new [Copernicus Data Space Ecosystem](https://dataspace.copernicus.eu/).
